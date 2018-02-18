@@ -6,7 +6,9 @@ Before usage set Twitter API keys in hidden.py file
 <br>
 Main module is TwitterAPI.py, you should import only this one
 <br>
-Functions: get_user_json - get raw information about user in json
+Functions: 
+<br>
+get_user_json - get raw information about user in json
 <br>
            get_user_friends_json - get raw information about users defined numberfriends in json
            <br>
